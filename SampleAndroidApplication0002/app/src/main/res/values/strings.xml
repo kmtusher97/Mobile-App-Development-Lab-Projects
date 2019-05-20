@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleAndroidApplication0002</string>
+    <string name="activity1">Create Message</string>
+    <string name="activity2">Receive Message</string>
+    <string name="button_send">Send</string>
+    <string name="received_message">Received Message</string>
+</resources>
