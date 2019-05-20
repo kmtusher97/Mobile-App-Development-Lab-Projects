@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner and Button</string>
+    <string name="hello_world">Hello World!!!!!!!!</string>
+    <string name="null_string"></string>
+    <string name="button1">Select</string>
+
+    <string-array name="options">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+    </string-array>
+</resources>
